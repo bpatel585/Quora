@@ -9,3 +9,4 @@ scipy
 Jinja2
 MarkupSafe
 Werkzeug
+nltk
